@@ -1,0 +1,12 @@
+[
+  {"id":1,"units":10,"department":"abc"},
+  {"id":2,"units":0, "department":"abc"},
+  {"id":3,"units":20, "department":"abc"},
+  {"id":4,"units":10, "department":"xyz"},
+  {"id":5,"units":14, "department":"xyz"},
+  {"id":6,"units":55, "department":"lmn"},
+  {"id":7,"units":100, "department":"lmn"},
+  {"id":8,"units":74, "department":"lmn"},
+  {"id":9,"units":20, "department":"lmn"},
+  {"id":10,"units":0, "department":"lmn"}
+]

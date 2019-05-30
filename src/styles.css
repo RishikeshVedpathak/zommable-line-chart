@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+html, 
+body {
+  min-height: 100%;
+}
+
+.axis {
+  font-size: 11pt;
+}
+
+.line {
+fill: none !important;
+stroke: steelblue;
+stroke-width: 2px;
+}
